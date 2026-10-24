@@ -2,6 +2,11 @@
 
 A collection of retail tags and e-paper displays I've come across.
 
+|                                                                                     |                                                                                               |                                                                                            |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ![](tags/hanshow/HS-290-NEBULAR-BWR/pictures/HS-290-NEBULAR-BWR-black-front-01.png) | ![](tags/hanshow/HS-290-POLARIS-PRO-BWRY/pictures/HS-290-POLARIS-PRO-BWRY-white-front-01.png) | ![](tags/hanshow/HS-420-NEBULAR-BWR/pictures/HS-420-NEBULAR-BWR-black-front-01.png)        |
+| ![](tags/hanshow/HS-583-NEBULAR-BWR/pictures/HS-583-NEBULAR-BWR-black-front-01.png) | ![](tags/vusion-ses_imagotag/VU-2.6-GU110-BWR/pictures/VU-2.6-GU110-BWR-black-front-01.png)   | ![](tags/vusion-ses_imagotag/VU-5.9-GU110-BWR/pictures/VU-5.9-GU110-BWR-gray-front-01.png) |
+
 I am not affiliated with any brand/project listed below. I am not an expert, this is a shared notebook so others can reuse the **display** if they buy similar tags.
 
 I've tried to reference everything I had in my archives, but coverage is imperfect: some photos may be blurry or missing, and some revisions, colorways, or extra details may not be listed yet. If you need a clearer shot, a missing variant, or complementary info added, please open an issue or PR, I'm happy to fill the gaps.
@@ -40,12 +45,12 @@ the-epaper-wiki/
 
 ## Brands documented
 
-| Brand                                    | Index                                                                    |
-| ---------------------------------------- | ------------------------------------------------------------------------ |
-| Solum (Newton)                           | [tags/solum/README.md](tags/solum/README.md)                             |
-| Hanshow (Nebular, Stellar, Polaris)      | [tags/hanshow/README.md](tags/hanshow/README.md)                         |
-| SES-imagotag / Vusion (Pervasive panels) | [tags/vusion-ses_imagotag/README.md](tags/vusion-ses_imagotag/README.md) |
-| All panels (by size)                     | [screens/README.md](screens/README.md)                                   |
+|                                                                                                                 | Brand                                    | Index                                                                    |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------ |
+| ![Solum](tags/solum/SL-28-BK-280-BWRY/pictures/SL-28-BK-280-BWRY-black-front-01.png)                            | Solum (Newton)                           | [tags/solum/README.md](tags/solum/README.md)                             |
+| ![Hanshow](tags/hanshow/HS-583-STELLAR-BWR/pictures/HS-583-STELLAR-BWR-white-front-01.png)                      | Hanshow (Nebular, Stellar, Polaris)      | [tags/hanshow/README.md](tags/hanshow/README.md)                         |
+| ![SES-imagotag / Vusion](tags/vusion-ses_imagotag/VU-5.9-GU110-BWR/pictures/VU-5.9-GU110-BWR-gray-front-01.png) | SES-imagotag / Vusion (Pervasive panels) | [tags/vusion-ses_imagotag/README.md](tags/vusion-ses_imagotag/README.md) |
+| ![Panel](screens/583/BWR/HINK-E0583A01/pictures/HS-583-NEBULAR-BWR-black-screen-01.png)                         | All panels (by size)                     | [screens/README.md](screens/README.md)                                   |
 
 Panel size folders use a three-digit code (e.g. `280` ≈ 2.8", `583` ≈ 5.83", `581` ≈ 5.81"). Palette codes are `BWR`, `BWRY`, etc.
 
